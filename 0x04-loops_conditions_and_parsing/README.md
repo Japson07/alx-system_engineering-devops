@@ -1,2 +1,1 @@
-#!/usr/bin/env bash
-Loops conditions and parsing
+0x04
